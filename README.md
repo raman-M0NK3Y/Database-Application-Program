@@ -2,7 +2,7 @@
 
 In this project, I worked with an existing database, the York River Bookseller's Database (YRB DB). There are two scripts provided yrb-create 
 and yrb-drop. The script yrb-create will create the YRB DB schema and populate the tables with mock data. The scirpt yrb-drop is provided 
-for convenience. It will remove copies of the YRB DB from the DB2 (database server developed by IBM) schema space.
+for convenience. It will remove copies of the YRB DB from the DB2 (database server developed by IBM) schema space. The code for the application is "yrbapp3.java" and "book3.java".
 
 The application is written in both Java and SQL, a written report is attached showcasing the project called "cs3421proj" refer to that for more details, the application is suppose to do the following:
 
